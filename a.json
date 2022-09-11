@@ -1,20 +1,7 @@
-[
-    {
-        "id": 1,
-        "Name":"deviceA",
-        "Description":"This is A",
-        "IconUrl":"https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
-    },
-    {
-        "id": 2,
-        "Name":"deviceB",
-        "Description":"This is B",
-        "IconUrl":"https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
-    },
-    {
-        "id": 3,
-        "Name":"deviceC",
-        "Description":"This is C",
-        "IconUrl":"https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
-    }
- ]
+{
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": false,
+    "IconUrl":"https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
+  }
